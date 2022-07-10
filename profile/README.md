@@ -11,7 +11,7 @@ Webpages of all events since 2018 (Portuguese):
 # Repositories
 
  * [Private repository with codes used by the organizing team]()
- * [Public repo hosting the website in 2022]()
+ * [Public repo hosting the website in 2022](https://github.com/SantosRAC/wpdb2022)
  * [Public repo hosting conference abstracts, posters, and presentations]()
  * [Public repo hosting Jupyter/Google Colab notebooks of workshop editions]()
 
