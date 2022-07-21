@@ -29,4 +29,5 @@ Manuscript describing the workshop (PLOS Computational Biology, 2021):
 ## Conferences
 
 * [CarpentryCon 2018](https://2018.carpentrycon.org/)
-* [Intelligent Systems for Molecular Biology 2022](https://www.iscb.org/ismb2022)
+* [Intelligent Systems for Molecular Biology 2022 (ISMB 22)](https://www.iscb.org/ismb2022)
+  * [Poster, abstract, and power point slides for ISMB 22](https://github.com/brazilpythonws/wpdb_research/tree/main/conferences/ismb2022)
