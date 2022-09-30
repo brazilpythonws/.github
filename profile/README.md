@@ -10,6 +10,7 @@ Webpages of all events since 2018 (Portuguese):
  * At the [Federal University of São Carlos](https://btwbd.gitlab.io/sitepythonbiodata2018/) (2018)
  * In collaboration with the [University of São Paulo](https://btwbd.gitlab.io/sitepythonbiodata2020/) (2020, online edition)
  * In collaboration with the [São Paulo State University](https://btwbd.gitlab.io/sitepythonbiodata2021/) (2021, online edition)
+ * In collaboration with the [University of São Paulo](https://wpdb2022.netlify.app/) (2022, online edition)
 
 # Repositories
 
